@@ -1,0 +1,44 @@
+site_name: RELAX Training Week Aarhus
+site_url: https://botterweck.github.io/relax-dn-aarhus2026/
+site_description: Agenda RELAX Doctoral Network Training Week in Aarhus, 2026.
+
+
+watch:
+  - docs
+  - mkdocs.yml
+
+use_directory_urls: true
+
+theme:
+  name: material
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  features:
+    - navigation.footer
+extra_css:
+  - stylesheets/extra.css
+  
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg 
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format  
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/relax-dn/
+
+copyright: Copyright &copy; 2026 <a href="https://blogs.qub.ac.uk/relax-dn/">RELAX Doctoral Network</a>
