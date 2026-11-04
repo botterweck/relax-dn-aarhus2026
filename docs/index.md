@@ -17,6 +17,8 @@ We would be delighted if you could join the Public Workshop that will include th
 
 * Opportunities for informal talks about the research with the individual PhD-students, their supervisors and other stakeholders that join us.
 
+If you are considering to attend **[please register](https://event.au.dk/events/relax-workshop)** to make our preparations easier.
+
 We look forward to welcoming you in Aarhus!
 
 ## Agenda
