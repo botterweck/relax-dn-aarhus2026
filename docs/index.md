@@ -23,8 +23,13 @@ We look forward to welcoming you in Aarhus!
 
 ## Agenda
 
-<style id="workshop-agenda_23394_Styles">
-<!--table
+More information about RELAX-DN is available at [https://blogs.qub.ac.uk/relax-dn/](https://blogs.qub.ac.uk/relax-dn/).
+
+This websites presents information, news and outreach of the project RELAX-DN, funded by the European Union under Horizon Europe 2021-2027 Framework Programme Grant Agreement number 101072456.
+
+UKRI Engineering and Physical Sciences Research Council grant number EP/X029174/1.
+
+<style id="workshop-agenda_23394_Styles"><!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
 .font523394
@@ -445,8 +450,7 @@ We look forward to welcoming you in Aarhus!
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
--->
-</style>
+--></style>
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:
  collapse;table-layout:fixed;width:761pt" width="1014">
 <col style="mso-width-source:userset;mso-width-alt:2816;width:66pt" width="88"/>
@@ -613,7 +617,8 @@ We look forward to welcoming you in Aarhus!
 <td class="xl6523394" style="border-top:none;border-left:none"> </td>
 <td class="xl8223394" style="border-top:none;border-left:none;
   width:576pt" width="768">DC4 Antreas Loizou, National Technical Univesity of Athens<br/>
-</td>
+<font class="font723394">"Which Data Is Worth Keeping? Valuing Data at
+  Scale with Chunked Data Shapley"</font></td>
 <td class="xl1523394"></td>
 <td class="xl1523394"></td>
 </tr>
@@ -750,8 +755,3 @@ We look forward to welcoming you in Aarhus!
 <?endif?>
 </table>
 
-More information about RELAX-DN is available at [https://blogs.qub.ac.uk/relax-dn/](https://blogs.qub.ac.uk/relax-dn/).
-
-This websites presents information, news and outreach of the project RELAX-DN, funded by the European Union under Horizon Europe 2021-2027 Framework Programme Grant Agreement number 101072456.
-
-UKRI Engineering and Physical Sciences Research Council grant number EP/X029174/1.
