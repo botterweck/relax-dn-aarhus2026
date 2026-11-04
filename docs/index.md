@@ -21,16 +21,6 @@ We look forward to welcoming you in Aarhus!
 
 ## Agenda
 
-![RELAX-DN Logo](images/relax-logo.jpg)
-
-![Logo of the EU](images/eu-logo.jpg)
-
-More information about RELAX-DN is available at [https://blogs.qub.ac.uk/relax-dn/](https://blogs.qub.ac.uk/relax-dn/).
-
-This websites presents information, news and outreach of the project RELAX-DN, funded by the European Union under Horizon Europe 2021-2027 Framework Programme Grant Agreement number 101072456.
-
-UKRI Engineering and Physical Sciences Research Council grant number EP/X029174/1.
-
 <style id="workshop-agenda_23394_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
@@ -758,3 +748,8 @@ UKRI Engineering and Physical Sciences Research Council grant number EP/X029174/
 <?endif?>
 </table>
 
+More information about RELAX-DN is available at [https://blogs.qub.ac.uk/relax-dn/](https://blogs.qub.ac.uk/relax-dn/).
+
+This websites presents information, news and outreach of the project RELAX-DN, funded by the European Union under Horizon Europe 2021-2027 Framework Programme Grant Agreement number 101072456.
+
+UKRI Engineering and Physical Sciences Research Council grant number EP/X029174/1.
