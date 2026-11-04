@@ -1,6 +1,6 @@
 # RELAX DN Workshop in Aarhus, 12-13 November 2026
 
-<img src="images/relax-logo.jpg" align="right" width="100" alt="Logo of RELAX Doctoral Network" />
+<img src="images/relax-logo.jpg" align="right" width="250" alt="Logo of RELAX Doctoral Network" />
 
 **Location:** Aarhus University Conference Center,  Fredrik Nielsens Vej 2-4, 8000 Aarhus C
 [https://maps.app.goo.gl/dn93Ddq1HCf9u5fq6](https://maps.app.goo.gl/dn93Ddq1HCf9u5fq6)
